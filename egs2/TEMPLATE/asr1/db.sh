@@ -1,7 +1,7 @@
 # Set the path of your corpus
 # "downloads" means the corpus can be downloaded by the recipe automatically
 
-AISHELL=downloads
+AISHELL=/tzy/_corpus/_corpus
 AN4=downloads
 DIRHA_ENGLISH_PHDEV=
 DIRHA_WSJ=
@@ -28,7 +28,7 @@ HKUST1=
 HKUST2=
 LABOROTV=
 TEDXJP=
-LIBRISPEECH=
+LIBRISPEECH=/tzy/_corpus
 MINI_LIBRISPEECH=downloads
 LIBRITTS=
 LJSPEECH=downloads
