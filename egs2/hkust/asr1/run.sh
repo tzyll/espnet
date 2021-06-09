@@ -21,7 +21,7 @@ use_lm=true
 speed_perturb_factors="0.9 1.0 1.1"
 
 ./asr.sh                                               \
-    --ngpu 4 \
+    --ngpu 1 \
     --lang zh                                          \
     --audio_format flac                                \
     --feats_type raw                                   \
